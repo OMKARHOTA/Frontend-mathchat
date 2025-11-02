@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://omkareswarhota1234-chatbot.hf.space";
+const API_URL = "https://omkareswarhota1234-chat.hf.space";
 
 // Send user query to backend
 export const sendQuery = async (query) => {
