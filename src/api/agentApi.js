@@ -1,6 +1,11 @@
 import axios from "axios";
 
-const API_URL = "https://huggingface.co/spaces/omkareswarhota1234/Math";
+const API_URL = "http://localhost:7860";
+
+// Send query (text OR image OR audio)
+export const sendQuery = async (query, image, audio) => {
+
+  const formData = new FormData();
 
   if (query) {
     formData.append("question", query);
