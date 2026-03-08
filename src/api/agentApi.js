@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:7860";
+const API_URL = "https://omkareswarhota1234-math.hf.space";
 
 // Send query (text OR image OR audio)
 export const sendQuery = async (query, image, audio) => {
