@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/frontend-mathchat/static/css/main.b84aae04.css",
-    "main.js": "/frontend-mathchat/static/js/main.3078b992.js",
-    "static/media/math-bg.webp": "/frontend-mathchat/static/media/math-bg.1e0f05765a6b118c5b94.webp",
-    "index.html": "/frontend-mathchat/index.html",
-    "main.b84aae04.css.map": "/frontend-mathchat/static/css/main.b84aae04.css.map",
-    "main.3078b992.js.map": "/frontend-mathchat/static/js/main.3078b992.js.map"
+    "main.css": "/Frontend-mathchat/static/css/main.b84aae04.css",
+    "main.js": "/Frontend-mathchat/static/js/main.241e299b.js",
+    "static/media/math-bg.webp": "/Frontend-mathchat/static/media/math-bg.1e0f05765a6b118c5b94.webp",
+    "index.html": "/Frontend-mathchat/index.html",
+    "main.b84aae04.css.map": "/Frontend-mathchat/static/css/main.b84aae04.css.map",
+    "main.241e299b.js.map": "/Frontend-mathchat/static/js/main.241e299b.js.map"
   },
   "entrypoints": [
     "static/css/main.b84aae04.css",
-    "static/js/main.3078b992.js"
+    "static/js/main.241e299b.js"
   ]
 }
