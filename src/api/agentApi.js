@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://backend:8000";
+const API_URL = "https://huggingface.co/spaces/omkareswarhota1234/Math";
 
   if (query) {
     formData.append("question", query);
